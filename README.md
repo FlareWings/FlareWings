@@ -24,23 +24,23 @@ Data Science and Analytics is my current region of exploration.
 
 ### Learning 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="Microsoft Excel" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftexcel.svg" />
-<img align="left" alt="Tableau" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/tableau.svg" />
-<img align="left" alt="PowerBI" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/powerbi.svg" /></br>
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/python.svg" />
+<img align="left" alt="Postgre SQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/postgresql.svg" />
+<img align="left" alt="Mongo DB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/mongodb.svg" />
+<img align="left" alt="PySpark" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/apachespark.svg" />
+<img align="left" alt="MLFlow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/mlflow.svg" />
+<img align="left" alt="Microsoft PowerBI" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/powerbi.svg" /></br>
 </br>
 
 
 ### My Tools 🛠
 
-<img align="left" alt="Arch Linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/archlinux.svg" />
-<img align="left" alt="Docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/docker.svg" />
-<img align="left" alt="Microsoft Windows" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoft.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Microsoft Office" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
-<img align="left" alt="Ananconda" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/anaconda.svg" />
+<img align="left" alt="Microsoft Azure" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/microsoftazure.svg" />
+<img align="left" alt="Docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/docker.svg" />
+<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/git.svg" />
+<img align="left" alt="Arch Linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/archlinux.svg" />
+<img align="left" alt="Microsoft Windows" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/microsoft.svg" />
+<img align="left" alt="SciKit Learn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/scikitlearn.svg" />
 </br>
 </br>
 
