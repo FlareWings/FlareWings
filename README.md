@@ -36,6 +36,7 @@ Data Science and Analytics is my current region of exploration.
 ### My Tools 🛠
 
 <img align="left" alt="Arch Linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/archlinux.svg" />
+<img align="left" alt="Docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/docker.svg" />
 <img align="left" alt="Microsoft Windows" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoft.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Microsoft Office" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/microsoftoffice.svg" />
