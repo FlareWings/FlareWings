@@ -18,7 +18,7 @@
 ### Myself 🙋🏻‍♂️
 ```python
 I'm Chandu, a Technical graduate from Kerala.
-Data Science and Analytics is my current region of exploration.
+Data/Dev Ops is my current region of exploration.
 ```
 
 
